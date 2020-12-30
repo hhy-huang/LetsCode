@@ -68,7 +68,7 @@ $$ B[b] \leqslant A[a] $$
 
 的情况下，也满足
 
-$$  fabs(B[b] - A[a]) = \underset{b \leqslant i \leqslant M}{min}\{~fabs(B[i] - A[a])~\} % $$
+$$  fabs(B[b] - A[a]) = \underset{b \leqslant i \leqslant M}{min}\{~fabs(B[i] - A[a])~\} $$
 
 因为是要保证舞伴最多，因此不能有浪费的B数。
 
