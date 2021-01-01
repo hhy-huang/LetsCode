@@ -5,7 +5,6 @@
 #include<cmath>
 
 using namespace std;
-#define BIG 9223372036854775807
 
 long long quick_pow(long long base,long long pow,long long m)
 {
@@ -24,9 +23,9 @@ long long quick_pow(long long base,long long pow,long long m)
 
 int main()
 {
-    long long a,b;
+    long long a,b,m;
 
-    cin>>a>>b;
-    cout<<quick_pow(a,b,BIG)<<endl;
+    cin>>a>>b>>m;
+    cout<<quick_pow(a,b,m)<<endl;
     return 0;
 }
