@@ -12,4 +12,4 @@ If you're also the one who just studys ACM, come on, let's study together,my con
 ### QQ:1011905885 
 ### Wechat:haoy0911
 
-- One more thing, as for the new dark mode of github, some formulars which are showed as png can't be showed clearly. So make sure that you switch to the light mode before looking through the markdown files!
+One more thing, as for the new dark mode of github, some formulars which are showed as png can't be showed clearly. So make sure that you switch to the light mode before looking through the markdown files!
