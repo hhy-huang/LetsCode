@@ -9,4 +9,5 @@ As for the language, emm..mostly I'll use Chinese which is my mother tongue, som
 
 If you're also the one who just studys ACM, come on, let's study together,my contact information is below.
 
-### QQ:1011905885  Wechat:haoy0911
+### QQ:1011905885 
+### Wechat:haoy0911
