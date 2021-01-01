@@ -7,6 +7,8 @@ Because of the first year of my studying algorithm, some knowledge still can't b
 
 As for the language, emm..mostly I'll use Chinese which is my mother tongue, sometime maybe I'll use English when it's simpler.
 
+And the sources of my learning are from the author Li Yudong who from Peking University and wrote the book 《算法进阶指南》.
+
 If you're also the one who just studys ACM, come on, let's study together,my contact information is below.
 
 ### QQ:1011905885 
