@@ -64,11 +64,11 @@ B数的计算非常简单，如果第i位男士拥有Ai枚圣晶石，那么这�
 
 这道题我的思路是先对男士的B数进行计算，并从小到大进行排序，对女士的最低要求也从小到大进行排序，然后对每一个B数进行对A的遍历，由于排过序,因此选出的舞伴应该正好是既满足 
 
-$$ B[b] \leqslant A[a] $$
+![1](http://latex.codecogs.com/svg.latex?$$B[b]\leqslantA[a]$$)
 
 的情况下，也满足
 
-$$  fabs(B[b] - A[a]) = \underset{b \leqslant i \leqslant M}{min}\{~fabs(B[i] - A[a])~\} $$
+![2](http://latex.codecogs.com/svg.latex?$$fabs(B[b]-A[a])=\underset{b\leqslanti\leqslantM}{min}\{~fabs(B[i]-A[a])~\}$$)
 
 因为是要保证舞伴最多，因此不能有浪费的B数。
 
@@ -78,29 +78,29 @@ $$  fabs(B[b] - A[a]) = \underset{b \leqslant i \leqslant M}{min}\{~fabs(B[i] - 
 
 举个例子，例如计算：
 
-$$ 3^{13} $$
+![3](http://latex.codecogs.com/svg.latex?$$3^{13}$$)
 
 而计算它我们可以将它转化为：
 
-$$ 3^{13} = 3^{8}\times3^{4}\times3^{1} $$
+![4](http://latex.codecogs.com/svg.latex?$$3^{13}=3^{8}\times3^{4}\times3^{1}$$)
 
 就能大大减少循环计算的次数，那么我们如何把任意一个幂的指数写成：
 
-$$ \sum2^k $$
+![5](http://latex.codecogs.com/svg.latex?$$\sum2^k$$)
 
 的形式呢。
 
 我们把指数13写成二进制：
 
-$$ 1101 $$
+![6](http://latex.codecogs.com/svg.latex?$$1101$$)
 
 就比较了然了：
 
-$$ 13 = 1\times2^3 + 1\times2^2 + 0\times2^1 + 1\times2^0 = 8 + 4 + 1 $$
+![7](http://latex.codecogs.com/svg.latex?$$13=1\times2^3+1\times2^2+0\times2^1+1\times2^0=8+4+1$$)
 
 由此，我们得到统一的规律：
 
-$$ ans = x^n = x^{\sum_{i=0}^m a_i\times2^i} $$
+![8](http://latex.codecogs.com/svg.latex?$$ans=x^n=x^{\sum_{i=0}^ma_i\times2^i}$$)
 
 而二进制项是否为1，由>>右移位运算符进行遍历即可。
 
