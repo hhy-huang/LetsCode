@@ -29,9 +29,9 @@ void isprime_B(int b) //要筛选素数的区间右端点
     memset(is_prime,true,sizeof(is_prime[0]));//先假设都为素数
     for(int i = 2;i <= sqrt(b);i++)
     {
-        if(is_prime[i])
+        if(is_prime[i])//当i为素数
         {
-            prime[q++] = i;
+            prime[q++] = i;//将素数i存入prime数组
             for(int j = i*2;j <= b;j += i)//素数的倍数一定不是素数
             {
                 is_prime[j] = false;
