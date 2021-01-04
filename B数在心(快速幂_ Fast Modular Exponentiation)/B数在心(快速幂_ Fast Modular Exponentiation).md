@@ -80,7 +80,7 @@ B数的计算非常简单，如果第i位男士拥有Ai枚圣晶石，那么这�
 
 <a><img src="https://latex.codecogs.com/gif.latex?3^{13}" title="3^{13}" /></a>
 
-而计算它我们可以将它转化为：
+而计算它可以将它转化为：
 
 <a><img src="https://latex.codecogs.com/gif.latex?3^{13}=3^{8}\times3^{4}\times3^{1}" title="3^{13}=3^{8}\times3^{4}\times3^{1}" /></a>
 
@@ -90,11 +90,11 @@ B数的计算非常简单，如果第i位男士拥有Ai枚圣晶石，那么这�
 
 的形式呢。
 
-我们把指数13写成二进制：
+把指数13写成二进制：
 
 <a><img src="https://latex.codecogs.com/gif.latex?1101" title="1101" /></a>
 
-就比较了然了：
+就比较明显了：
 
 <a><img src="https://latex.codecogs.com/gif.latex?13=1\times2^3&plus;1\times2^2&plus;0\times2^1&plus;1\times2^0=8&plus;4&plus;1" title="13=1\times2^3+1\times2^2+0\times2^1+1\times2^0=8+4+1" /></a>
 
@@ -104,7 +104,7 @@ B数的计算非常简单，如果第i位男士拥有Ai枚圣晶石，那么这�
 
 而二进制项是否为1，由>>右移位运算符进行遍历即可。
 
-从而我们实现了这一算法，代码如下：
+然后就实现了这一算法，代码如下：
 
 ```cpp
 long long quick_pow(long long x,long long n,long long m)
