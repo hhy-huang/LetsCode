@@ -29,3 +29,7 @@ int main()
     cout<<quick_pow(a,b,m)<<endl;
     return 0;
 }
+/*
+Algorithm:     素数筛法
+Contributor:   hhy-huang
+*/
