@@ -11,6 +11,6 @@ And the sources of my learning are from the author Li Yudong who from Peking Uni
 
 If you're also the one who just studys ACM, come on, let's study together,our contact information is below.
 
-### hhyer:&emsp; QQ:1011905885 &emsp; &emsp; &emsp; Wechat:haoy0911
+****hhyer:&emsp; QQ:1011905885 &emsp; &emsp; &emsp; Wechat:haoy0911****
 
 One more thing, as for the new dark mode of github, some formulars which are showed as png can't be showed clearly. So make sure that you switch to the light mode before looking through the markdown files!
