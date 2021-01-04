@@ -30,6 +30,6 @@ int main()
     return 0;
 }
 /*
-Algorithm:     素数筛法
+Algorithm:     快速幂
 Contributor:   hhy-huang
 */
