@@ -1,16 +1,25 @@
 # ACM_Algorithm_Study
-The repository was build and contributed initially by 1511 dormitory. And welcome more people come to join us in studying algorithm and sharing ideas about algorithm.
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-brightgreen?logo=gitpod&style=flat-square)](https://gitpod.io/#https://github.com/hhy-huang/ACM_Algorithm_Study)
+[![GitHub watchers](https://img.shields.io/github/watchers/hhy-huang/ACM_Algorithm_Study.svg?style=social&label=Watch)](https://github.com/hhy-huang/ACM_Algorithm_Study)
+[![GitHub stars](https://img.shields.io/github/stars/hhy-huang/ACM_Algorithm_Study.svg?style=social&label=Stars)](https://github.com/hhy-huang/ACM_Algorithm_Study)
 
-We'll share some problems to do with algorithm. And share some of our thoughts about them. We're also the one to learn algorithm so we can make progress together.
+这个仓库是由🌟1511宿舍🌟共同构建，并且致力于共同分享算法学习的经验
 
-Because of the beginning of our studying algorithm, some knowledge still can't be completely absorbed or understood by us. Consequently, we hope that everyone who may visit our repositories could offer us some contributes or advice.
+我们将分享一些与算法有关的问题。并分享我们的一些想法，便于交流和学习，一起进步。
 
-As for the language, emm..mostly we'll use Chinese which is our mother tongue, sometime maybe we'll use English when it's simpler.
+由于我们学习算法学习刚刚起步，有些知识还不能完全被我们吸收或理解。因此，我们希望每个访问我们资料库的人都能为我们提供一些Contributes或Issues。
 
-And the sources of my learning are from the author Li Yudong who from Peking University and wrote the book 《算法进阶指南》.
-
-If you're also the one who just studys ACM, come on, let's study together,our contact information is below.
+如果你也是正在学习算法并且对算法抱有很大兴趣的人，或者对我们的仓库很感兴趣，都可以加入我们，下面是我们的联系方式：
 
 ****hhyer:&emsp; QQ:1011905885 &emsp; &emsp; &emsp; Wechat:haoy0911****
+#
 
-One more thing, as for the new dark mode of github, some formulars which are showed as png can't be showed clearly. So make sure that you switch to the light mode before looking through the markdown files!
+### commits的规则：
+
+每一类算法用一文件夹承载，对于同一算法的描述与解释最好既有markdown等形式的以文本为主的文件，也有代码文件(可以由不同人提供),在文件末尾统一用如下格式进行来源辨别：
+
+```
+Algorithm:   XXX
+Contributor: XXX
+```
+另外，对于github的dark模式，有些公式以png的形式显示不清楚。所以，在浏览markdown文件之前，请确保你切换到light模式。
