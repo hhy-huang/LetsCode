@@ -1,17 +1,16 @@
 # ACM_Algorithm_Study
-I'll share some problems to do with algorithm. And share some of my thoughts about them. I'm also the one to learn algorithm so we can make progress together.
+The repository was build and contributed initially by 1511 dormitory. And welcome more people come to join us in studying algorithm and sharing ideas about algorithm.
 
-Because of the first year of my studying algorithm, some knowledge still can't be completely absorbed by me. Consequently, I hope that everyone who may visit my repositories could offer me some contributes or advice.
+We'll share some problems to do with algorithm. And share some of our thoughts about them. We're also the one to learn algorithm so we can make progress together.
 
-**I like using formulars to solve and express problems**, so in this repositoris mostly I'll express my comprehension of the algorithm with one markdown file and one cpp file which conclude both the codes and the formulars. And the Latex can't be used in Github Page, so I use the HTML to link the web to show the picture of the formular.
+Because of the beginning of our studying algorithm, some knowledge still can't be completely absorbed or understood by us. Consequently, we hope that everyone who may visit our repositories could offer us some contributes or advice.
 
-As for the language, emm..mostly I'll use Chinese which is my mother tongue, sometime maybe I'll use English when it's simpler.
+As for the language, emm..mostly we'll use Chinese which is our mother tongue, sometime maybe we'll use English when it's simpler.
 
 And the sources of my learning are from the author Li Yudong who from Peking University and wrote the book 《算法进阶指南》.
 
-If you're also the one who just studys ACM, come on, let's study together,my contact information is below.
+If you're also the one who just studys ACM, come on, let's study together,our contact information is below.
 
-### QQ:1011905885 
-### Wechat:haoy0911
+### hhyer:&emsp; QQ:1011905885 &emsp; &emsp; &emsp; Wechat:haoy0911
 
 One more thing, as for the new dark mode of github, some formulars which are showed as png can't be showed clearly. So make sure that you switch to the light mode before looking through the markdown files!
