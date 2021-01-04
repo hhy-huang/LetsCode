@@ -29,3 +29,7 @@ int main()
     cout<<big_multi(a,b,m)<<endl;
     return 0;
 }
+/*
+Algorithm:     64位整数乘法
+Contributor:   hhy-huang
+*/
