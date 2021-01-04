@@ -6,7 +6,7 @@
 
 using namespace std;
 
-long long big_multi(long long a,long long b,long long m)
+long long big_multi(long long a,long long b,long long m) 
 {
     long long ans = 0;
     while(b)
