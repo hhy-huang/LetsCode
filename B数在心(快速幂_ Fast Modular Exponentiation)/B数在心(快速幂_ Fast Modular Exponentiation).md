@@ -202,3 +202,7 @@ int main()
 ```
 
 这里相当于本小白复习快速幂了😂，所以写得多了些。
+
+
+<!--Algorithm:   快速幂-->
+<!--Contributor: hhy-huang-->
