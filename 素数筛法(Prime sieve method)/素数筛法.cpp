@@ -109,3 +109,7 @@ int main()
     cout<<endl;
     return 0;
 }
+/*
+Algorithm:     素数筛法
+Contributor:   hhy-huang
+*/
