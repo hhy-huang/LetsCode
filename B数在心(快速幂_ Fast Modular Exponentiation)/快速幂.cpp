@@ -4,7 +4,7 @@
 #include<algorithm>
 #include<cmath>
 
-using namespace std;
+using namespace std; 
 
 long long quick_pow(long long base,long long pow,long long m)
 {
