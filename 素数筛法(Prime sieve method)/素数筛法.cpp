@@ -26,7 +26,7 @@ int q = 0;
 
 void isprime_B(int b) //要筛选素数的区间右端点
 {
-    memset(is_prime,true,sizeof(is_prime[0]));//先假设都为素数
+    memset(is_prime,true,sizeof(is_prime));//先假设都为素数
     for(int i = 2;i <= sqrt(b);i++)
     {
         if(is_prime[i])//当i为素数
@@ -49,7 +49,7 @@ void isprime_C(int b)
 {
     int k = 0,j = 0;
 
-    memset(is_prime_Euler,true,sizeof(is_prime_Euler[0]));
+    memset(is_prime_Euler,true,sizeof(is_prime_Euler));
     for(int i = 2;i <= b;i++)
     {
         if(is_prime_Euler[i])
