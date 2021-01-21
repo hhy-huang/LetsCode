@@ -55,9 +55,16 @@ int w[6] = {0,5,4,3,2,1};
 int n = 5, m = 10;
 for(int i = 1;i <= n;i++)
 {
-    for(int j = m;j >= w[i];j--)
+    for(int j = m;j > 0;j--)
     {
-        dp[i][j] = max(dp[i-1][j], dp[i-1][j - w[i]] + v[i]);//减去当前产品的质量之后剩余多少
+        if(j >= w[i])
+        {
+            dp[i][j] = max(dp[i-1][j], dp[i-1][j - w[i]] + v[i]);//减去当前产品的质量之后剩余多少
+        }
+        else
+        {
+            dp[i][j] = dp[i-1][j];
+        }
     }
 }
 ```
@@ -79,7 +86,14 @@ for(int i = 1;i <= n;i++)
 {
     for(int j = w[i];j <= m;j++)
     {
-        dp[i][j] = max(dp[i-1][j], dp[i-1][j - w[i]] + v[i]);
+        if(j >= w[i])
+        {
+            dp[i][j] = max(dp[i-1][j], dp[i-1][j - w[i]] + v[i]);
+        }
+        else
+        {
+            dp[i][j] = dp[i-1][j];
+        }
     }
 }
 ```
@@ -100,9 +114,16 @@ for(int i = 1;i <= n;i++)
 {
     for(int k = 1;k <= n[i];k++)
     {
-        for(int j = m;j >= w[i];j--)
+        for(int j = m;j > 0;j--)
         {
-            dp[i][j] = max(dp[i-1][j], dp[i-1][j - w[i]] + v[i]);
+            if(j >= w[i])
+            {
+                dp[i][j] = max(dp[i-1][j], dp[i-1][j - w[i]] + v[i]);
+            }
+            else
+            {
+                dp[i][j] = dp[i-1][j];
+            }
         }
     }
 }
