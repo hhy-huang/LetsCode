@@ -3,7 +3,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/hhy-huang/ACM_Algorithm_Study.svg?style=social&label=Watch)](https://github.com/hhy-huang/ACM_Algorithm_Study)
 [![GitHub stars](https://img.shields.io/github/stars/hhy-huang/ACM_Algorithm_Study.svg?style=social&label=Stars)](https://github.com/hhy-huang/ACM_Algorithm_Study)
 
-这个仓库是由🌟1511宿舍🌟共同构建，并且致力于共同分享算法学习的经验
+这个仓库是由🌟Hhy🌟构建，并且致力于共同分享算法学习的经验历程
 
 我们将分享一些与算法有关的问题。并分享我们的一些想法，便于交流和学习，一起进步。
 
@@ -16,7 +16,7 @@
 
 ### commits的规则：
 
-每一类算法用一文件夹承载，对于同一算法的描述与解释最好既有markdown等形式的以文本为主的文件，也有代码文件(可以由不同人提供),在文件末尾统一用如下格式注释进行来源辨别：
+每一类算法用一文件夹承载，对于同一算法的描述与解释最好既有markdown等形式的以文本为主的文件，也有代码文件(可以由不同人提供),也会有相应的OJ题与题解，会给明来源，在文件末尾统一用如下格式注释进行来源辨别：
 
 ```
 Algorithm:   XXX
