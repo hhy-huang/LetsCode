@@ -5,11 +5,10 @@
 
 这个仓库是由🌟Hhy🌟构建，并且致力于共同分享算法学习的内容
 
-将分享一些与算法有关的问题。并分享我们的一些想法，便于交流和学习，一起进步。
+将分享一些与算法题有关的问题。并分享一些想法，便于交流和学习，一起进步。
 
-由于学习算法刚刚起步，有些知识还不能完全被我们吸收或理解。因此，希望每个访问资料库的人都能为我们提供一些Contributes或Issues。
+希望每个访问资料库的人都能为我们提供一些Contributes或Issues。
 
-****hhyer:&emsp; QQ:1011905885 &emsp; &emsp; &emsp; Wechat:haoy0911****
 #
 
 ### commits的规则：
@@ -21,3 +20,5 @@ Algorithm:   XXX
 Contributor: XXX
 ```
 另外，对于github的dark模式，有些公式以png的形式显示不清楚。所以，在浏览markdown文件之前，请确保你切换到light模式。
+
+Note: 好久没更新了，当作刷leetcode的repo了。
