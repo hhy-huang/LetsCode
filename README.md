@@ -1,4 +1,4 @@
-# LetsCode
+# 📄LetsCode
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-brightgreen?logo=gitpod&style=flat-square)](https://gitpod.io/#https://github.com/hhy-huang/Letscode)
 [![GitHub watchers](https://img.shields.io/github/watchers/hhy-huang/LetsCode.svg?style=social&label=Watch)](https://github.com/hhy-huang/LetsCode)
 [![GitHub stars](https://img.shields.io/github/stars/hhy-huang/LetsCode.svg?style=social&label=Stars)](https://github.com/hhy-huang/LetsCode)
