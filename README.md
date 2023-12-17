@@ -3,11 +3,9 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/hhy-huang/LetsCode.svg?style=social&label=Watch)](https://github.com/hhy-huang/LetsCode)
 [![GitHub stars](https://img.shields.io/github/stars/hhy-huang/LetsCode.svg?style=social&label=Stars)](https://github.com/hhy-huang/LetsCode)
 
-这个仓库是由🌟Hhy🌟构建，并且致力于共同分享算法学习的内容
+这里将分享一些与算法题有关的问题。并分享一些想法，便于交流和学习，一起进步。
 
-将分享一些与算法题有关的问题。并分享一些想法，便于交流和学习，一起进步。
-
-希望每个访问资料库的人都能为我们提供一些Contributes或Issues。
+希望每个访问资料库的人都能提供一些Contributes或Issues。
 
 #
 
