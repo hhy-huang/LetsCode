@@ -21,4 +21,4 @@ Contributor: XXX
 ```
 另外，对于github的dark模式，有些公式以png的形式显示不清楚。所以，在浏览markdown文件之前，请确保你切换到light模式。
 
-Note: 好久没更新了，当作刷leetcode的repo了。
+Note: 好久没更新了，当作刷leetcode的repo了, `Leetcode` 文件夹下面以题目id命名即可。
