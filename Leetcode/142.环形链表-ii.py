@@ -13,12 +13,24 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        listlist = []
+        """listlist = []
         p = head
         while p:
             if p in listlist:
                 return p
             listlist.append(p)
             p = p.next
-        return None
+        return None"""
+        slowp = fastp = head
+        while fastp and fastp.next:
+            slowp = slowp.next
+            fastp = fastp.next.next
+            if slowp == fastp:
+                break
+        if not (fastp and fastp.next):
+            return None
+        while head != slowp:
+            head = head.next
+            slowp = slowp.next
+        return head
 # @lc code=end
