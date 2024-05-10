@@ -22,3 +22,5 @@ Contributor: XXX
 ### Note 
 
 好久没更新了，当作刷leetcode的repo了, `Leetcode` 文件夹下面以题目id命名即可。
+
+好像直接用题目id名字命名不同人之间回conflict，那就按这样的格式：`***_<your name>.py`，后面加上自己的名字
